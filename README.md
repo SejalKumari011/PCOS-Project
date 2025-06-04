@@ -24,15 +24,14 @@ This project aims to help in the early detection of PCOS using clinical and life
 ## 📁 Project Structure
 
 PCOS_Prediction/
-│
-├── App.py # Streamlit app script
-├── PCOS_PROJECT.ipynb # Jupyter notebook for model development
-├── pcos_model.pkl # Trained ML model (Pickle file)
-├── PCOS_data_without_infertility.xlsx # Dataset used for training
-
-yaml
-Copy
-Edit
+# Streamlit app script
+App.py
+ # Jupyter notebook for model development
+PCOS_PROJECT.ipynb
+ # Trained ML model (Pickle file)
+pcos_model.pkl
+# Dataset used for training
+PCOS_data_without_infertility.xlsx 
 
 ---
 
